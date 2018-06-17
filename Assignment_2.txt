@@ -1,0 +1,38 @@
+1)Ans:-
+
+     print("Hello World")
+
+2)Ans:-
+    
+     a="acad"
+     b="view"
+     c=a+b
+     print(c)
+
+3)Ans:-
+
+     x=input("enter your name: ")
+y=int(input("enter your age: "))
+z=input("enter your location: ")
+print(x)
+print(y)
+print(z)
+
+4)Ans:-
+ 
+     print('\"let\'s get started\"')
+
+5)Ans:-
+
+     s="Acadview"
+course="Python"
+fees=5000
+sentence="%s is providing classes of %s at cost %d"
+print(sentence %(s,course,fees))
+
+
+6)Ans:-
+
+      name="Deepu"
+salary=10000
+print("%s %d " %(name,salary))       
